@@ -1,9 +1,14 @@
+<!--  HEADER SECTION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00d4ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kamrul+Hasan;Flutter+%26+Full-Stack+Developer;Mobile+App+Enthusiast;Node.js+%26+REST+APIs" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00d4ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kamrul+Hasan;Full-Stack+Flutter+Developer;MERN+Stack+Developer" alt="Typing SVG"/>
 </h1>
-<h3 align="center">A passionate Flutter & Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">AI-Focused Full-Stack Web & Mobile Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
+
+
+
+
 
 ### 💫 About Me:
 
@@ -27,6 +32,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+
+
+
+
 ### 🌐 Socials
 
 <p align="center">
@@ -44,26 +53,44 @@
   </a>
 </p>
 
+
+
+
+
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
+
 ### 📊 GitHub Stats:
 
 
+<!--  STATUS 01 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kakamrulhasan&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="85%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kakamruldev&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="100%" />
 </p>
 
 
+<!--  STATUS 02 -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=dracula" alt="Profile Details Summary" width="100%" />
+</p>
 
+
+<!--  DIVIDER LINE -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 
-### 🔝 Top Contributed Repo
+<!--  Fire Image -->
+<div align="center">
+<img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> 
+</div>
 
-| <div align="center"><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamrulhasan&theme=dracula"/><br><br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
-|---|---|
 
 
 # 💼 Professional Experience
@@ -91,30 +118,6 @@ SoftVence Delta (Betopia Group Limited) — Dhaka, Bangladesh
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# 🚀 Featured Projects  
-
-### 🌿 Ayni Wellness  
-Self-care & wellness app  
-- 🧘 Meditation & routines  
-- 📔 Mood tracking & journaling  
-- 🔗Play Store: https://play.google.com/store/apps/details?id=com.ayniwellness.ayni_wellness 
-- 🔗 App Store: https://apps.apple.com/us/app/ayni-wellness/id6759598419 
-
----
-
-### 🏥 Vital Hands  
-Healthcare staffing platform  
-- 📍 Find & apply for shifts  
-- 📊 Track payments & performance  
-- 🔗Play Store: https://play.google.com/store/apps/details?id=com.viralhands
-- 🔗 App Store: https://apps.apple.com/us/app/vital-hands/id6761807200  
-<!-- Final animated sparkling wave divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-Open to exciting collaborations, freelance projects, or full-time opportunities.  
-Let’s create mobile magic together! 🚀
 
 👉 Reach out: kakamrul2000@gmail.com
 
