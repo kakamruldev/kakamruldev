@@ -39,16 +39,16 @@
 ### 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ka-kamrul-hasan-ab90391b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/kakamruldev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
   <a href="mailto:kakamrul2000@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
 </a>
-  <a href="https://github.com/kakamrulhasan" target="_blank">
+  <a href="https://github.com/kakamruldev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
-  <a href="https://x.com/KAKamrulHasan1" target="_blank">
+  <a href="https://x.com/kakamruldev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40">
   </a>
 </p>
@@ -62,23 +62,24 @@
 
 
 
+## GitHub Status
 
 
-
-### 📊 GitHub Stats:
-
-
-<!--  STATUS 01 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kakamruldev&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="100%" />
-</p>
-
-
-<!--  STATUS 02 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=dracula" alt="Profile Details Summary" width="100%" />
-</p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=github" alt="GitHub profile details" width="100%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakamruldev&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakamruldev&theme=github" alt="GitHub stats" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakamruldev&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakamruldev&theme=github" alt="Top languages by repository" height="180" />
+  </picture>
+</div>
+<br />
 
 <!--  DIVIDER LINE -->
 <div align="center">
