@@ -20,13 +20,7 @@
 
 - 💼 Flutter Developer with **5+ months of experience**
 - 📱 Built & deployed **2+ production-ready apps** on Google Play Store & Apple App Store
-- ⚡ Improved app performance, reducing crashes by **30%** and enhancing user experience by **20%**
-- 💳 Experienced in **In-App Purchase integration (RevenueCat)**
-- 🏗️ Strong knowledge of **MVVM, MVC, and scalable app structure**
-- 🔥 Skilled in **Flutter, Dart, Firebase, REST APIs, and Express.js**
-- 🚀 Passionate about building **high-performance, scalable, and modern mobile applications**
-- 🌱 Currently exploring **advanced system design, backend scalability, and app optimization**
-- 🤝 Open to collaborating on **Flutter apps, full-stack projects, and innovative mobile solutions**
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
