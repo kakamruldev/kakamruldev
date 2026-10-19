@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">AI-Focused Full-Stack Web & Mobile Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamruldev&label=Profile%20views&color=0e75b6&style=flat" alt="kakamruldev" /> </p>
 
 
 
