@@ -53,7 +53,7 @@
 
 ### 💻 Tech Stack:
 
-<table>
+<table  align="center">
   <tr>
     <td valign="top" width="160"><b>Frameworks</b></td>
     <td>
@@ -107,7 +107,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=github" alt="GitHub profile details" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamruldev&theme=github" alt="GitHub profile details" width="70%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakamruldev&theme=github_dark" />
