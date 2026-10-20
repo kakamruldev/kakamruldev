@@ -52,7 +52,52 @@
 
 
 ### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<table>
+  <tr>
+    <td valign="top" width="160"><b>Frameworks</b></td>
+    <td>
+      <img src="assets/badges/nextjs.svg" alt="Next.js" />
+      <img src="assets/badges/nuxt.svg" alt="Nuxt" />
+      <img src="assets/badges/react.svg" alt="React" />
+      <img src="assets/badges/vue.svg" alt="Vue" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>State & Auth</b></td>
+    <td>
+      <img src="assets/badges/pinia.svg" alt="Pinia" />
+      <img src="assets/badges/better-auth.svg" alt="Better Auth" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Languages & UI</b></td>
+    <td>
+      <img src="assets/badges/javascript.svg" alt="JavaScript" />
+      <img src="assets/badges/html5.svg" alt="HTML5" />
+      <img src="assets/badges/css3.svg" alt="CSS3" />
+      <img src="assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend & Data</b></td>
+    <td>
+      <img src="assets/badges/nodejs.svg" alt="Node.js" />
+      <img src="assets/badges/express.svg" alt="Express" />
+      <img src="assets/badges/mongodb.svg" alt="MongoDB" />
+      <img src="assets/badges/firebase.svg" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tools</b></td>
+    <td>
+      <img src="assets/badges/git.svg" alt="Git" />
+      <img src="assets/badges/github.svg" alt="GitHub" />
+      <img src="assets/badges/figma.svg" alt="Figma" />
+      <img src="assets/badges/linux.svg" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 
 
