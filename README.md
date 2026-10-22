@@ -68,6 +68,8 @@
     <td>
       <img src="assets/badges/pinia.svg" alt="Pinia" />
       <img src="assets/badges/better-auth.svg" alt="Better Auth" />
+      <img src="assets/badges/riverpod.svg" alt="Riverpod" />
+      <img src="assets/badges/redux.svg" alt="Redux" />
     </td>
   </tr>
   <tr>
