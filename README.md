@@ -97,6 +97,13 @@
       <img src="assets/badges/linux.svg" alt="Linux" />
     </td>
   </tr>
+  <tr>
+    <td valign="top"><b>Mobile App</b></td>
+    <td>
+      <img src="assets/badges/flutter.svg" alt="flutter" />
+    </td>
+  </tr>
+  <tr>
 </table>
 
 
