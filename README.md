@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="300" src="assets/gif/work.gif">
 
 - 💼 Flutter Developer with **5+ months of experience**
 - 📱 Built & deployed **2+ production-ready apps** on Google Play Store & Apple App Store
