@@ -21,7 +21,7 @@
 
 -  Building modern, responsive web applications using **React, Next.js, JavaScript, and Tailwind CSS**.
 -  Developing scalable backend services and RESTful APIs with **Node.js and Express.js**.
--  Creating cross-platform mobile applications using **Flutter, Dart, and Riverpod**.
+-  Creating cross-platform mobile applications using **Flutter, Dart, Riverpod and Bloc**.
 -  Working with **SQL, MongoDB, and Firebase** for database management and application services.
 -  Building, deploying, and maintaining **production-ready web applications and backend services**.
 
