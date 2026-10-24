@@ -19,11 +19,11 @@
 
 <img align="right" alt="Coding animation" width="300" src="./assets/gif/work.gif"/>
 
-- 🌐 Building modern, responsive web applications using **React, Next.js, JavaScript, and Tailwind CSS**.
-- ⚙️ Developing scalable backend services and RESTful APIs with **Node.js and Express.js**.
-- 📱 Creating cross-platform mobile applications using **Flutter, Dart, and Riverpod**.
-- 🗄️ Working with **SQL, MongoDB, and Firebase** for database management and application services.
-- 🚀 Building, deploying, and maintaining **production-ready web applications and backend services**.
+-  Building modern, responsive web applications using **React, Next.js, JavaScript, and Tailwind CSS**.
+-  Developing scalable backend services and RESTful APIs with **Node.js and Express.js**.
+-  Creating cross-platform mobile applications using **Flutter, Dart, and Riverpod**.
+-  Working with **SQL, MongoDB, and Firebase** for database management and application services.
+-  Building, deploying, and maintaining **production-ready web applications and backend services**.
 
 <br clear="right"/>
 
