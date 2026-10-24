@@ -10,22 +10,26 @@
 
 
 
-### 💫 About Me:
+<!-- ABOUT ME SECTION -->
+<h3 align="center">💫 About Me</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider"/>
 </div>
 
-<img align="right" alt="coding" width="300" src="assets/gif/work.gif">
+<img align="right" alt="Coding animation" width="300" src="./assets/gif/work.gif"/>
 
-- 💼 Flutter Developer with **5+ months of experience**
-- 📱 Built & deployed **2+ production-ready apps** on Google Play Store & Apple App Store
+- 🌐 Building modern, responsive web applications using **React, Next.js, JavaScript, and Tailwind CSS**.
+- ⚙️ Developing scalable backend services and RESTful APIs with **Node.js and Express.js**.
+- 📱 Creating cross-platform mobile applications using **Flutter, Dart, and Riverpod**.
+- 🗄️ Working with **SQL, MongoDB, and Firebase** for database management and application services.
+- 🚀 Building, deploying, and maintaining **production-ready web applications and backend services**.
 
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider"/>
 </div>
-
 
 
 
