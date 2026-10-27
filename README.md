@@ -164,7 +164,7 @@ SoftVence Delta (Betopia Group Limited) — Dhaka, Bangladesh
 
 - Collaborated on scalable Flutter applications using **Riverpod** state management  
 - Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
-- Transformed raw data into intuitive, data-driven user interfaces  
+  
 
 <!-- Final animated sparkling wave divider -->
 <div align="center">
