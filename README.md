@@ -143,34 +143,3 @@
 <div align="center">
 <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> 
 </div>
-
-
-
-# 💼 Professional Experience
-
-**Junior Flutter & BackEnd Developer**  
-Softvench Delta — Dhaka, Bangladesh  
-*January 2026 – Present*
-
-- Built scalable apps, reducing crashes by **30%**  
-- Published **2 apps** on Play Store & App Store  
-- Collaborated with **18+ team members**  
-- Fixed **20+ performance issues** → **99.9% responsiveness**  
-- Improved code quality by **25%** through code reviews  
-
-**Flutter Developer Intern**  
-SoftVence Delta (Betopia Group Limited) — Dhaka, Bangladesh  
-*January 2026 – March 2026*
-
-- Collaborated on scalable Flutter applications using **Riverpod** state management  
-- Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
-  
-
-<!-- Final animated sparkling wave divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-
-👉 Reach out: kakamrul2000@gmail.com
-
